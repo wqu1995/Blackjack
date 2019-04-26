@@ -1,0 +1,11 @@
+Blackjack as a test bed for learning strategies in neural networks
+
+Punish/Reward: Learning with a Critic in Adaptive Threshold Systems
+
+Learning to play games from experience: An application of artificial neural networks and temporal
+difference learning
+
+An Analysis of Linear Models, Linear Value-Function Approximation, and
+Feature Selection for Reinforcement Learning
+
+Exploratory Gradient Boosting for Reinforcement Learning in Complex Domains
